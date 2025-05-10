@@ -13,8 +13,8 @@ This is a Streamlit app that uses Google Custom Search API to pull live search r
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/milindchoudryus/GPT_search.git
+   cd GPT_search
    ```
 
 2. Install dependencies:
