@@ -1,4 +1,8 @@
-streamlit>=1.45.0
-requests>=2.31.0
-openai>=1.78.0
-python-dotenv>=1.0.1
+streamlit==1.35.0
+requests==2.31.0
+openai==1.6.1
+python-dotenv==1.0.1
+selenium==4.33.0
+langchain_community==0.3.26
+langchain==0.3.26
+langchain_openai==0.3.26
